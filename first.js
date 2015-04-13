@@ -5,8 +5,8 @@ prompt("What is your name?");
 confirm("I feel awesome!");
 
 #Length counts every character in the string - including spaces! ???? <-- Not sure
-string = "what is your age my dd"
-"string".length
+string = "what is your age my dd";
+"string".length;
 
 console.log(15 > 4); // 15 > 4 evaluates to true, so true is printed.
 # Note: "===" instead of "=="
