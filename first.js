@@ -9,8 +9,8 @@ string = "what is your age my dd";
 "string".length;
 
 console.log(15 > 4); // 15 > 4 evaluates to true, so true is printed.
-# Note: "===" instead of "=="
-# Fill in with >, <, === so that the following print out true:
+/* Note: "===" instead of "=="
+# Fill in with >, <, === so that the following print out true:8*/
 console.log("Xiao Hui".length<122);
 console.log("Goody Donaldson".length> 8);
 console.log(8*2 ===16);
